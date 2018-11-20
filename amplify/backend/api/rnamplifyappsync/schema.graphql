@@ -1,0 +1,6 @@
+type Book @model {
+  id: ID!
+  name: String!
+  description: String
+  completed: Boolean
+}

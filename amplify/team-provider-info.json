@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "rnamplifyappsync-20181120071841-authRole",
+            "UnauthRoleArn": "arn:aws:iam::557458351015:role/rnamplifyappsync-20181120071841-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::557458351015:role/rnamplifyappsync-20181120071841-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "rnamplifyappsync-20181120071841-deployment",
+            "UnauthRoleName": "rnamplifyappsync-20181120071841-unauthRole",
+            "StackName": "rnamplifyappsync-20181120071841",
+            "StackId": "arn:aws:cloudformation:eu-central-1:557458351015:stack/rnamplifyappsync-20181120071841/91680fc0-ecd7-11e8-9846-024a02362e48"
+        }
+    }
+}
